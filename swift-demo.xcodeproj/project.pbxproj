@@ -14,6 +14,7 @@
 		A4DD35D81D4AE8F600A5535D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A4DD35D61D4AE8F600A5535D /* LaunchScreen.storyboard */; };
 		A4DD35E31D4AE8F600A5535D /* swift_demoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4DD35E21D4AE8F600A5535D /* swift_demoTests.swift */; };
 		A4DD35EE1D4AE8F600A5535D /* swift_demoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4DD35ED1D4AE8F600A5535D /* swift_demoUITests.swift */; };
+		A4DD37621D4B463000A5535D /* h5 in Resources */ = {isa = PBXBuildFile; fileRef = A4DD37611D4B463000A5535D /* h5 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		A4DD35E91D4AE8F600A5535D /* swift-demoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "swift-demoUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4DD35ED1D4AE8F600A5535D /* swift_demoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_demoUITests.swift; sourceTree = "<group>"; };
 		A4DD35EF1D4AE8F600A5535D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A4DD37611D4B463000A5535D /* h5 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = h5; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		A4DD35CC1D4AE8F500A5535D /* swift-demo */ = {
 			isa = PBXGroup;
 			children = (
+				A4DD37611D4B463000A5535D /* h5 */,
 				A4DD35CD1D4AE8F500A5535D /* AppDelegate.swift */,
 				A4DD35CF1D4AE8F600A5535D /* ViewController.swift */,
 				A4DD35D11D4AE8F600A5535D /* Main.storyboard */,
@@ -232,6 +235,7 @@
 				A4DD35D81D4AE8F600A5535D /* LaunchScreen.storyboard in Resources */,
 				A4DD35D51D4AE8F600A5535D /* Assets.xcassets in Resources */,
 				A4DD35D31D4AE8F600A5535D /* Main.storyboard in Resources */,
+				A4DD37621D4B463000A5535D /* h5 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
